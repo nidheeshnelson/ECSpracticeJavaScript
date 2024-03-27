@@ -1,0 +1,17 @@
+let name1 ="Nidheesh Nelson";
+let a;
+console.log(name1);
+a= name1.charAt(1); console.log(a);
+// a= name1.lastIndexOfndexOf("e"); console.log(a);
+a= name1.indexOf("i"); console.log(a);
+a= name1.length; console.log(a);
+a= name1.trim(); console.log(a);
+a= name1.toLowerCase(); console.log(a);
+a= name1.toUpperCase(); console.log(a);
+a= name1.repeat(10); console.log(a);
+a= name1.startsWith("N"); console.log(a);
+a= name1.endsWith("n"); console.log(a);
+// a= name1.include("d"); console.log(a);
+a= name1.replace("n","N"); console.log(a);
+a= name1.padStart(20,"N"); console.log(a);
+a= name1.padEnd(20,"N"); console.log(a);
