@@ -1,0 +1,12 @@
+const date = new Date();
+console.log(date);
+console.log(date.getFullYear());
+console.log(date.getMonth());
+console.log(date.getDate());
+console.log(date.getDay());
+console.log(date.getHours());
+console.log(date.setFullYear(2250));
+console.log(date.setMonth(4));
+console.log(date.setDate(4));
+console.log(date.setTime(5));
+console.log(date.setHours(5));
